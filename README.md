@@ -1,5 +1,5 @@
 # Attack On Titan Game 
-###By Phat Tran
+### By Phat Tran
 
 ## About The Game
 
